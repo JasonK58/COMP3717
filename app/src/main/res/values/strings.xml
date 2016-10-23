@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Midterm Practice</string>
+    <string name="home">Home</string>
+    <string name="coinActivityButton">Go to Coin Flip</string>
+    <string name="spinnerActivityButton">Go to Spinner</string>
+    <string name="sqlButton">Go to SQLite Demo</string>
+    <string name="buttonName">Display Coin Result as Text</string>
+    <string name="buttonName2">Display Coin Result as Image</string>
+    <string name="buttonName3">Display Coin Result in Separate Activity</string>
+    <string name="buttonName4">Go Back to Main Activity</string>
+    <string name="spinnerText">Make a selection from the Spinner.</string>
+    <string-array name="spinnerChoices">
+        <item>White</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Red</item>
+    </string-array>
+</resources>
