@@ -9,6 +9,8 @@
     <string name="buttonName3">Display Coin Result in Separate Activity</string>
     <string name="buttonName4">Go Back to Main Activity</string>
     <string name="spinnerText">Make a selection from the Spinner.</string>
+    <string name="submitEntry">Submit To Database</string>
+    <string name="ViewData">Get Entries</string>
     <string-array name="spinnerChoices">
         <item>White</item>
         <item>Blue</item>
